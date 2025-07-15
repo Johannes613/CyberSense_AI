@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "CyberSenseAI",
+    "slug": "CyberSenseAI",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "scheme": "cybersenseai",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#101014"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yohannis.cybersenseai"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#101014"
+      },
+      "package": "com.yohannis.cybersenseai"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "37b37703-2438-4d4c-b768-14c147447ac4"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/37b37703-2438-4d4c-b768-14c147447ac4"
+    }
+  }
+}
