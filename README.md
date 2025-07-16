@@ -14,7 +14,7 @@
 </li>
 <li data-start="900" data-end="1010">
   <h3>Screenshots</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 70px;padding: 30px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; text-align: center;">
   <img width="280" height="600" alt="Image" src="https://github.com/user-attachments/assets/6df63568-842d-415b-a75c-702ad886ce7c" />
   <img width="280" height="600" alt="Image" src="https://github.com/user-attachments/assets/0c768855-ba9b-4b37-a636-1ebff785620b" />
   <img width="280" height="600" alt="Image" src="https://github.com/user-attachments/assets/6733a75d-9fdd-4fc0-a844-665348190ff6" />
