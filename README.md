@@ -13,7 +13,7 @@
 
 </li>
 <li data-start="900" data-end="1010">
-  <h3>Screenshots</h3>
+  <h3>Screenshots and Demo Video</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; text-align: center;">
   <img width="235" height="550" alt="Image" src="https://github.com/user-attachments/assets/6df63568-842d-415b-a75c-702ad886ce7c" />
   <img width="235" height="550" alt="Image" src="https://github.com/user-attachments/assets/0c768855-ba9b-4b37-a636-1ebff785620b" />
