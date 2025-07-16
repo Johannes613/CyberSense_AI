@@ -9,8 +9,7 @@
 <li data-start="618" data-end="899">
 <p data-start="620" data-end="899"><strong data-start="620" data-end="636">Deployed App</strong>: <a data-start="638" data-end="899" rel="noopener" target="_new" class="" href="https://expo.dev/preview/update?message=Initial+internship+preview&amp;updateRuntimeVersion=1.0.0&amp;createdAt=2025-07-15T17%3A52%3A26.481Z&amp;slug=exp&amp;projectId=37b37703-2438-4d4c-b768-14c147447ac4&amp;group=2a5d5007-f9b8-4f76-8552-a8142a805c2c">CyberSense AI Expo Preview</a></p>
   <p data-start="2912" data-end="2960">Open Expo Go on your phone and scan the QR code.</p><!--EndFragment-->
-  <img width="618" height="406" alt="Image" src="https://github.com/user-attachments/assets/5869e3a6-9a07-4f44-8046-1ca3b869b390" />
-
+<img width="522" height="350" alt="Image" src="https://github.com/user-attachments/assets/5d5221b2-954c-45e1-8216-23f2df09a464" />
 </li>
 <li data-start="900" data-end="1010">
   <h3>Screenshots and Demo Video</h3>
